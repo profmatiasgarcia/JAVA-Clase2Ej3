@@ -1,2 +1,8 @@
 # JAVA-Clase2Ej3
-Ejemplo 3 del apunte de JAVA Clase 2
+
+<p>Ejemplo 3 del apunte de JAVA <b>Clase 2</b> </p>
+<ul>
+  <li> Herencia</li>
+  <li> Polimorfismo</li>
+  
+</ul>
